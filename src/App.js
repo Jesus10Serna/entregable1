@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import QuoteBox from './components/QuoteBox'
 
 import './App.css';
